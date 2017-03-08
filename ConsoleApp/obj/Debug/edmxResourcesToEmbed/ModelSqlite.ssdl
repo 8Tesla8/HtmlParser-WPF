@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbModel.Store" Provider="System.Data.SQLite.EF6" ProviderManifestToken="data source=&quot;E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\Data\db.db&quot;" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="HtmlElements">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" />
+    <Property Name="Content" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="Html" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+    <Property Name="TypeId" Type="integer" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Types">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="integer" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="2147483647" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="dbModelStoreContainer">
+    <EntitySet Name="HtmlElements" EntityType="Self.HtmlElements" store:Type="Tables" />
+    <EntitySet Name="Types" EntityType="Self.Types" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

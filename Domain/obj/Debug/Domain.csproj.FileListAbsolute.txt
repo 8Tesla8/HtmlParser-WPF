@@ -1,0 +1,69 @@
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\Domain.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\Domain.pdb
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\obj\Debug\Domain.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\obj\Debug\Domain.pdb
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\Domain.dll.config
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.xml
+C:\Users\Overload\Desktop\sqllite\WebOwnersAndPets\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\Domain.dll.config
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\Domain.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\Domain.pdb
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.EF6.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.Linq.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.xml
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectsVS\WebOwnersAndPets\Domain\bin\Debug\System.Data.SQLite.xml
+E:\ProjectsVS\WebOwnersAndPets\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\ProjectsVS\WebOwnersAndPets\Domain\obj\Debug\Domain.dll
+E:\ProjectsVS\WebOwnersAndPets\Domain\obj\Debug\Domain.pdb
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\bin\Debug\Domain.dll.config
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\bin\Debug\Domain.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\bin\Debug\Domain.pdb
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\bin\Debug\EntityFramework.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\bin\Debug\System.Data.SQLite.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\bin\Debug\EntityFramework.xml
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\bin\Debug\System.Data.SQLite.xml
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\obj\Debug\Domain.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\Domain\obj\Debug\Domain.pdb
+E:\Netpeak\Domain\bin\Debug\Domain.dll.config
+E:\Netpeak\Domain\bin\Debug\Domain.dll
+E:\Netpeak\Domain\bin\Debug\Domain.pdb
+E:\Netpeak\Domain\bin\Debug\EntityFramework.dll
+E:\Netpeak\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Netpeak\Domain\bin\Debug\System.Data.SQLite.dll
+E:\Netpeak\Domain\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Netpeak\Domain\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Netpeak\Domain\bin\Debug\EntityFramework.xml
+E:\Netpeak\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Netpeak\Domain\bin\Debug\System.Data.SQLite.xml
+E:\Netpeak\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\Netpeak\Domain\obj\Debug\Domain.dll
+E:\Netpeak\Domain\obj\Debug\Domain.pdb
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\bin\Debug\Domain.dll.config
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\bin\Debug\Domain.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\bin\Debug\Domain.pdb
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\bin\Debug\EntityFramework.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\bin\Debug\EntityFramework.SqlServer.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\bin\Debug\System.Data.SQLite.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\bin\Debug\EntityFramework.xml
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\bin\Debug\EntityFramework.SqlServer.xml
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\bin\Debug\System.Data.SQLite.xml
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\obj\Debug\Domain.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\Domain\obj\Debug\Domain.pdb

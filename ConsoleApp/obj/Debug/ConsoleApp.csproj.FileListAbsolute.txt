@@ -1,0 +1,41 @@
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\bin\Debug\System.Data.SQLite.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\bin\Debug\EntityFramework.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\bin\Debug\System.Data.SQLite.xml
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\bin\Debug\EntityFramework.xml
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Empeek WebApi + Angular + SQLite (WebOwnersAndPets)\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Netpeak\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\Netpeak\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\Netpeak\ConsoleApp\obj\Debug\ConsoleApp.pdb
+E:\Netpeak\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\Netpeak\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\Netpeak\ConsoleApp\bin\Debug\EntityFramework.dll
+E:\Netpeak\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Netpeak\ConsoleApp\bin\Debug\System.Data.SQLite.dll
+E:\Netpeak\ConsoleApp\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Netpeak\ConsoleApp\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Netpeak\ConsoleApp\bin\Debug\EntityFramework.xml
+E:\Netpeak\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Netpeak\ConsoleApp\bin\Debug\System.Data.SQLite.xml
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\bin\Debug\ConsoleApp.exe
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\bin\Debug\ConsoleApp.pdb
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\bin\Debug\EntityFramework.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\bin\Debug\System.Data.SQLite.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\bin\Debug\EntityFramework.xml
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\bin\Debug\System.Data.SQLite.xml
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\obj\Debug\ConsoleApp.exe
+E:\Repository\Netpeak Html Parser + Sqlite Entity Framework(Connection String from current directory)\ConsoleApp\obj\Debug\ConsoleApp.pdb
